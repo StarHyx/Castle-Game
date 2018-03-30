@@ -1,2 +1,2 @@
 starhyx
-这是一个城堡游戏，是网易云课堂的java课程项目
+A simple Castle Game. Come to play!
